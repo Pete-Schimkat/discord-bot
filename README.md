@@ -6,7 +6,9 @@ A private project developed with the powerful API discord.py. Originally used on
 * Soundboard commands that let the bot join a voice channel to play a specific sound and then leave again
 * Weather commands check the current weather or the forecast 
 * Music commands: Let the bot search for a given query and play the respective song in voice chat
-
+* Reddit commands: Browse pre-defined or custom sub-reddits and send posts from that sub to text-channels
 
 ## References
 [Discord.py documentation](https://discordpy.readthedocs.io/en/stable/)
+Weather API [tomorrow.io documentation](https://docs.tomorrow.io/reference/welcome)
+Reddit API [PRAW documentation](https://praw.readthedocs.io/en/stable/) 
