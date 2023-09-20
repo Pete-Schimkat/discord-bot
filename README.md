@@ -4,7 +4,7 @@ A private project developed with the powerful API discord.py in python. Original
 ## Features
 * Basic commands that send arbitrary text or images 
 * Soundboard commands that let the bot join a voice channel to play a specific sound and then leave again
-* Weather commands check the current weather or the forecast 
+* Weather commands: check the current weather or the forecast for a given location
 * Music commands: Let the bot search for a given query and play the respective song in voice chat
 * Reddit commands: Browse pre-defined or custom sub-reddits and send posts from that sub to text-channels
 
