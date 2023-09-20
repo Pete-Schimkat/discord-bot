@@ -1,5 +1,5 @@
 # discord-bot
-A private project developed with the powerful API discord.py. Originally used on private servers. Note that I developed this years ago and have stopped maintaining it. Discord.py and other API's used in this code have since been extensively reworked and are likely to not function properly anymore.
+A private project developed with the powerful API discord.py in python. Originally used on private servers. Note that I developed this years ago and have stopped maintaining it. Discord.py and other API's used in this code have since been extensively reworked and are likely to not function properly anymore.
 
 ## Features
 * Basic commands that send arbitrary text or images 
@@ -9,6 +9,9 @@ A private project developed with the powerful API discord.py. Originally used on
 * Reddit commands: Browse pre-defined or custom sub-reddits and send posts from that sub to text-channels
 
 ## References
-[Discord.py documentation](https://discordpy.readthedocs.io/en/stable/)
+Discord Python API [Discord.py documentation](https://discordpy.readthedocs.io/en/stable/)
+
 Weather API [tomorrow.io documentation](https://docs.tomorrow.io/reference/welcome)
+
 Reddit API [PRAW documentation](https://praw.readthedocs.io/en/stable/) 
+
